@@ -18,7 +18,7 @@
 
 **Warning**: On Windows, the launcher may be flagged as a false positive by antivirus software due to the absence of a valid certificate. Please be assured that this is a false alarm and the software is safe to use.
 
-If you encounter issues downloading the [installer](https://github.com/Firepdx01/CommandLauncher/releases/latest/download/Command.Launcher.exe), consider using the [portable](https://github.com/CesarGarza55/CommandLauncher/releases/latest/download/CommandLauncher-Portable-Windows.zip) version as an alternative.
+If you encounter issues downloading the [installer](https://github.com/Firepdx01/CommandLauncher/releases/latest/download/Command.Launcher.exe), consider using the [portable](https://github.com/Firepdx01/CommandLauncher/releases/latest/download/CommandLauncher-Portable-Windows.zip) version as an alternative.
 
 I have scanned the launcher with VirusTotal, and it was not detected by any antivirus engine. You can view the scan results below.
 
